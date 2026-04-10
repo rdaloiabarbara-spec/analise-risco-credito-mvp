@@ -1,4 +1,4 @@
-MVP: Análise de Dados e Boas Práticas - PIC-Rio
+MVP: Análise de Dados e Boas Práticas - PUC-Rio
 
 Este repositório contém o MVP desenvolvido para a disciplina de Análise de Dados e Boas Práticas, integrante do curso de Pós-Graduação em Ciência de Dados e Analytics da PUC-Rio
 
