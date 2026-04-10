@@ -7,12 +7,12 @@ O trabalho consiste na análise exploratória e no pré-processamento de um conj
 Descrição do Projeto
 
 Conteúdo do Repositório:
-    Notebooke de Análise: Arquivo contendo o ciclo completo de carga, exploração, visualização estatística e tratamento dos dados; e
+    Notebook de Análise: Arquivo contendo o ciclo completo de carga, exploração, visualização estatística e tratamento dos dados; e
     Dataset: Base de dados original utilizada no projeto, referenciada no código via URL para garantir a reprodutibilidade.
 
 Etapas de Desenvolvimento:
     1. Análise de Dados: Verificação de tendências centrais, dispersão (desvio padrão) e distribuições via histograma e boxplots;
-    2. Pré-Processamento: Divisão dos dados em conjuntos de treino e teste com estratificação, Normalização e Padronização de atributos numéricos e Tratamento das variáveis categóricas via One-Hote Encoding e criação da variável de utilização de limite; e
+    2. Pré-Processamento: Divisão dos dados em conjuntos de treino e teste com estratificação, Normalização e Padronização de atributos numéricos e Tratamento das variáveis categóricas via One-Hot Encoding e criação da variável de utilização de limite; e
     3. Validação de hipóteses: Investigação da relação entre inadimplência e variáveis como escolaridade, limite de crédito e histórico de pagamentos.
 
 Conclusão
